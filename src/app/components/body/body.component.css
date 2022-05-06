@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Herr+Von+Muellerhoff|Source+Sans+Pro:400,900&display=swap');
+
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: azure;
+
+}
+
+.container {
+  width: 100%;
+}
+
+ .espacio-entre-section{
+     margin: 10px 0 10px 0;
+ }
+
+
+   @media screen and (min-width: 280px) and (max-width: 720px) {
+
+  }

@@ -1,0 +1,27 @@
+
+.imagen-1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 90px 10px 30px 0;
+  width: 100%;
+}
+
+
+.imagen-1 img{
+  width: 60%;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-right: 15px;
+}
+
+.imagen-1 p{
+  width: 50%;
+  margin: 0 20px 0 20px;
+  text-align: justify;
+  text-indent: 40px;
+}
+
+.imagen-2{
+  margin-left: 30px;
+}

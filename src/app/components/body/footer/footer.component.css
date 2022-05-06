@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Herr+Von+Muellerhoff|Source+Sans+Pro:400,900&display=swap');
+
+.footer-content-divider {
+  display: flex;
+  justify-content: space-between;
+  background-color: #000;
+  height: 80px;
+  width: 100%;
+  color: antiquewhite;
+}
+
+
+.social-media{
+  margin: 10px;
+}
+
+.social-media ul{
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0 10px 30px 0;
+
+}
+
+.social-icons li {
+  margin: 10px;
+}
+
+
+
+.social-icons i {
+  font-size: 20px;
+  border-radius: 50%;
+  color: aliceblue;
+
+}
